@@ -1,0 +1,36 @@
+header{
+    height: 500px;
+    background-color: #fcf4f4;
+}
+.cart{
+    height: 30px;
+}
+.welcome{
+    width: 50%;
+}
+span.one{
+    color: #ffa500;;
+}
+span.two{
+    color: rgb(8, 8, 37);
+}
+.button{
+    color: white;
+    background-color: rgb(135, 170, 66);
+    border: none;
+    border-radius: 5px;
+}
+.women img, .men img{
+    height: 70%;
+    background-color: lightgray;
+    padding: 20px;
+    border-radius: 5px;
+}
+.card-footer{
+    border: none;
+    background-color: white;
+}
+.l-aside img{
+    margin-left: 20px;
+}
+   
