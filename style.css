@@ -1,15 +1,13 @@
 header{
-    height: 500px;
+    
     background-color: #fcf4f4;
 }
 .cart{
     height: 30px;
 }
-.welcome{
-    width: 50%;
-}
+
 span.one{
-    color: #ffa500;;
+    color: #ffa500;
 }
 span.two{
     color: rgb(8, 8, 37);
@@ -18,10 +16,10 @@ span.two{
     color: white;
     background-color: rgb(135, 170, 66);
     border: none;
-    border-radius: 5px;
+    border-radius: 10px;
 }
 .women img, .men img{
-    height: 70%;
+    height: 60%;
     background-color: lightgray;
     padding: 20px;
     border-radius: 5px;
@@ -32,5 +30,32 @@ span.two{
 }
 .l-aside img{
     margin-left: 20px;
+}
+.left-card{
+    border-radius: 10px;
+}
+.info{
+    color: rgb(8, 8, 37);
+}
+.contact{
+    background-color:  #fcf4f4;
+}
+.icon i{
+    font-size: 40px;
+    margin: 5px;
+}
+.men i, .women i{
+    font-size: 20px;
+}
+.big-icon{
+    font-size: 25px;
+}
+.price{
+    color:  #ffa500;
+}
+@media(max-width: 668px){
+    .media{
+        text-align: center;
+    }
 }
    
